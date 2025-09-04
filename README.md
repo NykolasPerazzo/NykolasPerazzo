@@ -5,7 +5,7 @@
 Me chamo Nykolas Perazzo, tenho 23 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninter. Sou apaixonado por tecnologia desde criança, criativo, dedicado e gosto de resolver problemas e desafios.
 
 
-## 📫 Como me encontrar
+# 📫 Como me encontrar
 <div> 
   <a href="https://instagram.com/nykolasperazzo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "nykolasmachado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
