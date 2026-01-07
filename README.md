@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Nykolas Perazzo, tenho 23 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninter. Sou apaixonado por tecnologia desde criança, criativo, dedicado e gosto de resolver problemas e desafios.
+Me chamo Nykolas Perazzo, tenho 23 anos e sou natural do Rio Grande do Sul. Atualmente curso Análise e Desenvolvimento de Sistemas na Uninter. Sou apaixonado por tecnologia desde criança, com forte interesse em desenvolvimento web. Sou criativo, dedicado e gosto de resolver problemas e desafios por meio da programação, buscando constante evolução técnica e aprendizado contínuo.
 
 
 <div> 
